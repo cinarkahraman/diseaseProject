@@ -25,7 +25,3 @@ We implemented our models using Python and the TensorFlow framework. The code is
 
 ## Results
 Our experiments yielded promising results in leaf classification accuracy. Both CNN and DNN models achieved high accuracy rates on the test dataset, demonstrating the effectiveness of deep learning techniques for this task.
-
-## Installation
-To install the necessary dependencies, run the following command:
-
