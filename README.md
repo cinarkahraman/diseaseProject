@@ -29,5 +29,3 @@ Our experiments yielded promising results in leaf classification accuracy. Both 
 ## Installation
 To install the necessary dependencies, run the following command:
 
-```bash
-pip install -r requirements.txt
